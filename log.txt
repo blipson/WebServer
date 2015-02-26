@@ -1,0 +1,120 @@
+
+Thread ID: 1
+GET /myfile.txt HTTP/1.1
+Sun, 10 Nov 2013 04:21:29 GMT
+
+
+Thread ID: 1
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 04:37:15 GMT
+
+
+Thread ID: 1
+GET myfile.txt HTTP/1.1
+Sun, 10 Nov 2013 04:38:40 GMT
+
+
+Thread ID: 0
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 04:38:27 GMT
+
+
+Thread ID: 1
+GET /myfile.txt http/1.1
+Sun, 10 Nov 2013 04:39:29 GMT
+
+
+Thread ID: 1
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 04:39:57 GMT
+
+
+Thread ID: 1
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 04:40:25 GMT
+
+
+Thread ID: 0
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 04:40:18 GMT
+
+
+Thread ID: 1
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 04:47:55 GMT
+
+
+Thread ID: 0
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 04:47:55 GMT
+
+
+Thread ID: 1
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 04:56:02 GMT
+
+
+Thread ID: 0
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 04:55:36 GMT
+
+
+Thread ID: 1
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 04:57:17 GMT
+
+
+Thread ID: 0
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 04:57:08 GMT
+
+
+Thread ID: 1
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 04:58:25 GMT
+
+
+Thread ID: 1
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 05:01:07 GMT
+
+
+Thread ID: 0
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 05:00:45 GMT
+
+
+Thread ID: 1
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 05:04:24 GMT
+
+
+Thread ID: 1
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 05:23:12 GMT
+
+
+Thread ID: 1
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 05:28:02 GMT
+
+
+Thread ID: 1
+POST myfile.txt http/1.1
+Sun, 10 Nov 2013 05:43:32 GMT
+
+
+Thread ID: 0
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 05:43:23 GMT
+
+
+Thread ID: 1
+GET myfile.txt http/1.1
+Sun, 10 Nov 2013 05:45:05 GMT
+
+
+Thread ID: 0
+POST myfile.txt http/1.1
+Sun, 10 Nov 2013 05:44:54 GMT
+
